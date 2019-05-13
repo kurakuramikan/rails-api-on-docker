@@ -1,0 +1,19 @@
+# Generated temporary files by OS or editors.
+*~
+*#
+*.bak
+*.tmproj
+.buildpath
+.project
+.settings
+.idea
+.tmp
+.netbeans
+build
+nbproject
+
+# Hidden files created by OS.
+Thumbs.db
+desktop.ini
+.DS_Store
+.DS_STORE
